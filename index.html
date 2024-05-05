@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div id="content"></div>
+    <script>
+        fetch('ass.json')
+            .then(response => response.json())
+            .then(data => {
+                const randomItem = data[Math.floor(Math.random() * data.length)];
+                document.getElementById('content').innerHTML = 
+                    'Param: ' + randomItem.param + '<br>' +
+                    'URL: ' + randomItem.url;
+            });
+    </script>
+</body>
+</html>
