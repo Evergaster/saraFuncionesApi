@@ -2,12 +2,12 @@ from flask import Flask, jsonify, request
 
 app = Flask(__name__)
 
-@app.route('/returnjson', methods=['GET'])
+@app.route('api/ass.json', methods=['GET'])
 def ReturnJSON():
     if request.method == 'GET':
         data = {
-            "Modules": 15,
-            "Subject": "Data Structures and Algorithms"
+            "url": "",
+            "param": "ass"
         }
         return jsonify(data)
 
