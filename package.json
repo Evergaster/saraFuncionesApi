@@ -1,5 +1,11 @@
 {
+  "name": "sara2.0",
+  "version": "2.0.0",
+  "engines": {
+    "node": "^20.x"
+  },
   "dependencies": {
+    "main": "/api/api.js",
     "express": "^4.19.2"
   }
 }
