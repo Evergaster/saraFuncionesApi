@@ -11,6 +11,17 @@ module.exports = (req, res) => {
         /*6*/ { 'url': 'https://media.discordapp.net/attachments/1236697726888968384/1236840887049256960/b5397d5803883e7d4a4b355d068a7375.gif?ex=66397956&is=663827d6&hm=63a469acfefa544358a08894be126a19214940bbf3706ce5d6cf72e4f5a33a48&=&width=585&height=354', 'param': 'neko'},
         /*7*/ { 'url': 'https://media.discordapp.net/attachments/1236697726888968384/1236840887414165624/3bf7efdde051788b28de216de8e024bfde7f9dcf_hq.gif?ex=66397956&is=663827d6&hm=1a84f9590f6508228a5b583337939184870fcdd24cee769e6fa0989f4b3ccfb4&=&width=600&height=513', 'param': 'neko'},
         ],
+        'sfwfoxes': [
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360311845752842/EuPIgZb.gif?ex=663f0069&is=663daee9&hm=f8cb278f48e37b658b5007496e6b21cbe149683f1455e486bd7b239e7bb82406&', 'param': 'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360312340807721/2vR7.gif?ex=663f006a&is=663daeea&hm=10c3740330968d62e855ce7aefeda6c690745f30c669a7548e634c4b88e43773&', 'param':'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360312898387969/1c6.gif?ex=663f006a&is=663daeea&hm=60deec70f01d6af21fed1460fe8ac101edcaf3dbb582a76ef24167fb2e1c85d0&', 'param':'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360313305497691/xUjg9eFRCjwANWb4t4P8QVV_3WU9GPQ4PWqp5CrRJ0ViUdeLzTp7Y2G5xS2rZAe8-mP9bEzAL3KauwjKY76rMQ.gif?ex=663f006a&is=663daeea&hm=ec9aa13efce7b9a90d0d151641edd08ff210a35c8fce15af1fa216c6acc82b2d&', 'param': 'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360313716277278/d05b60f14bd932fb60ad330e43a07df3.gif?ex=663f006a&is=663daeea&hm=d258c46a248a996b698bf616956b10dcb8801f2c48fff066211b72c9f6f0df86&', 'param':'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360314207146066/descarga.gif?ex=663f006a&is=663daeea&hm=2c8f5a1638d7f7de577004600bfdf8956823f74ec6320277ee382ae56a6c75f4&', 'param':'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360315062910976/e37.gif?ex=663f006a&is=663daeea&hm=57d6b07ba3cd5deb79c7958e876e64e3ed036f8a740f58fad5fcee62910c8ad0&', 'param': 'sfwfoxes'},
+            {'url': 'https://cdn.discordapp.com/attachments/1236697601965953075/1238360315406581770/kamiko-kana-vtuber.gif?ex=663f006a&is=663daeea&hm=da422c2db0b5b4ed32584f6c565c51d57b9794afd378d5402244559ff8484ccd&', 'param': 'sfwfoxes'},
+            
+        ],
         'anime': [
             { 'url': 'https://example.com/anime1.jpg' },
             { 'url': 'https://example.com/anime2.jpg' },
