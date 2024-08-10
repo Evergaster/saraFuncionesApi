@@ -70,7 +70,8 @@
     "anime": [
         { "url": "https://example.com/anime1.jpg" },
         { "url": "https://example.com/anime2.jpg" }
-    ],"wink": [
+    ],
+    "wink": [
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270833978668089494/1a3e80b2d8b08e39d3a7355dc23a88db.gif?ex=66b523df&is=66b3d25f&hm=24772ab6e0597a4a5b4aeabfb80f45f00efc84fb8f4ebe7f722095ea636696ab&", "param": "wink"},
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270833979045707866/5bbfe72d3faca25bdac64d85442ff553.gif?ex=66b523df&is=66b3d25f&hm=ab1de4ee6cad9c67a394175d60af1e9515b5b61e8dff292fb205b7a08cac5d75&", "param": "wink"},
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270833979657945120/6ctrDoT.gif?ex=66b523df&is=66b3d25f&hm=b40122b6f0df5adcad7ad4f9a3d6600fd5963396e65074da329c82e89596b29c&", "param": "wink"},
@@ -95,7 +96,26 @@
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270834101766848564/neko-girl-wink-iuutnlgpziyywr8l.gif?ex=66b523fc&is=66b3d27c&hm=cea8ba83f983924270dda179461c95b25cf5b3d51d4951ca844f2d2675e2dc1c&", "param": "wink"},
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270834102198865930/ob8opbknqnn81.gif?ex=66b523fc&is=66b3d27c&hm=ed1c09b51c531af0fdc9bfbbdc0bb68c7d2173da6e3e58e133fb42588c720e3e&", "param": "wink"},
      {"url": "https://cdn.discordapp.com/attachments/1264319726419705948/1270834102542532628/teasing-anime-wink-marin-kitagawa-hoxfvj0bnff8zpye.gif?ex=66b523fd&is=66b3d27d&hm=2e58db81c67b9bfae959d816f3ad6045ba82c376e9f46b4f736248ed47744ead&", "param": "wink"}
-    ], "work": [
+    ], 
+    "teehee": [
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888162737881168/5LYzTBVoS196gvYvw3zjwOinLXK34_jFHFLK8t62L30.gif?ex=66b8f9a8&is=66b7a828&hm=4dd94edf7ec40f622b41d8c346004b56a69eafae0cf33e126b005aa1717ad0d4&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888163320627250/a-couple-of-cuckoos-anime-teehee.gif?ex=66b8f9a8&is=66b7a828&hm=d2f9f1542a1d59a5ab42cd2915f63994668d555e42d913b074eec7c7ecc3ce51&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888163828273202/frenda-tee-hee.gif?ex=66b8f9a8&is=66b7a828&hm=d0a12b983bff2432227a7b4eae2851c9fb17098a93abf9257d16411254312f24&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888164327526544/fujimaru-ritsuka-wa-wakaranai-martha.gif?ex=66b8f9a8&is=66b7a828&hm=2bc26a7e898c492b942566889f94facc34b9bcce42d153d0f9148f2d09e0a93f&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888164738437260/gabriel-dropout-gabdro.gif?ex=66b8f9a9&is=66b7a829&hm=12dc428edae3cdfd5bb3454707be5e5a041ddce2adb0de534eea14d533250aaf&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888165661184041/good-luck-wink.gif?ex=66b8f9a9&is=66b7a829&hm=dbba9c5ca57738dd6aecb6cb0beeb2de84ba6a4dd3ae504694fd9b35ef1dbb50&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888166084939786/KsxFucM.gif?ex=66b8f9a9&is=66b7a829&hm=dd02f01ea770df3504bfd4c2069c23505b4930c42cf0df5e9fc1cba30c6ebeb7&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888166516822057/nisekoi-marika.gif?ex=66b8f9a9&is=66b7a829&hm=13e318ce6ed4f645c5e0ea966865f62390add8b5b107cc6dce9d2ea47dd71375&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888167049629809/osamake-anime.gif?ex=66b8f9a9&is=66b7a829&hm=9c7728325ea881d753ac6d327bb96b66e1af408ab5895d9bf1945ee4d0d7b41c&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888167695290418/provat-pecora-allieres-pecora.gif?ex=66b8f9a9&is=66b7a829&hm=7b62ab53fef0370752e6485f67ca09f9f3b9056264f6725beca355b5208cc6d5&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888250667012206/slowpoke-pokemon.gif?ex=66b8f9bd&is=66b7a83d&hm=da8c543ccf7361c05c655b33da1cd84ea40866115a2de82c4391a590b044967b&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888251392757810/tehee-tehehe.gif?ex=66b8f9bd&is=66b7a83d&hm=f21a201c77558f17ae19c3b1b209a1ddb885d1b14becb9c055c30fdde091524c&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888251027718206/taiho-shichau-zo-teehee.gif?ex=66b8f9bd&is=66b7a83d&hm=67f3a5c9946c28b7155f38a7f68c1e79dc595ee0ba78ef1c8943ae9a3c9ed72e&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888251778629773/tehee-tehehe_1.gif?ex=66b8f9bd&is=66b7a83d&hm=9db34b9e778aaa64be9f8b305d67ee99362610bac48c30e7a7e8fc6710bdf09a&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888252303048725/tohru-kobayashi-kobayashisan-chi-no-maid-dragon.gif?ex=66b8f9bd&is=66b7a83d&hm=24b9ae48c26b4da3546733546774cafd9b26cb62b89717de8fa2b8a8ff5bca6f&", "param": "teehee"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320002379612160/1271888252676214816/wink-hehe.gif?ex=66b8f9bd&is=66b7a83d&hm=5ebdb5753c0e61a6f17b4cd9c049dca5f20d4428f81876439ac66ffb46ec5326&", "param": "teehee"}
+    ], 
+    "work": [
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837173687549952/anime-work.gif?ex=66b526d9&is=66b3d559&hm=3d50e9555f51555a86bda56778177e57d27f49ff08f7143198221833f055c815&", "param": "work"},
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837174237134880/c671e8cdec4ce579abc8d5f76878df56eda40228_hq.gif?ex=66b526d9&is=66b3d559&hm=833d89151d40749bda5d2816238e544ff8cc864a2b7e4b65e16c609233c66fac&", "param": "work"},
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837174547255316/eeb5fa0608646f5c7f7e59822f78f09d9d74af9f_00.gif?ex=66b526d9&is=66b3d559&hm=cf891da5d50601de9abdc9b6c4803f414eac93900dac87e32621d70b3dcb5768&", "param": "work"},
@@ -111,7 +131,8 @@
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837179542667314/ab0c7c3eafcb0c31f620178403bd2415.gif?ex=66b526da&is=66b3d55a&hm=9e3d086559e725af86349c0165ff056bb58c34b49077202e1116d55ddc5630da&", "param": "work"},
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837179895119993/abe557b5780fc93e83447ac60987d000.gif?ex=66b526da&is=66b3d55a&hm=5a0de37dcb96dad923cd57e182b8c730697e73300999fe61c75d6ee50c441c7d&", "param": "work"},
      {"url": "https://cdn.discordapp.com/attachments/1264319649663815732/1270837180771864647/anime-studios-care-about-how-their-works-are-received-overseas.webp?ex=66b526da&is=66b3d55a&hm=e2ef6e5ed6b7e63d169687db34ad7b4393f9ee503b08254c6baee02993232a0d&", "param": "work"}
-    ], "think": [
+    ], 
+    "think": [
      {"url": "https://cdn.discordapp.com/attachments/1264319975284543601/1270838598056280167/8b9e6d689899285e03901284de79a8c9.gif?ex=66b5282c&is=66b3d6ac&hm=aac6ab13b97ba8ac7fc56df62b627a28c5d1594b3b84e7bf0331190a82910aa0&", "param": "think"},
      {"url": "https://cdn.discordapp.com/attachments/1264319975284543601/1270838598358536212/9278-mirai-think.gif?ex=66b5282c&is=66b3d6ac&hm=b4b4ad1a8fe07e7648c105d8feab9b8f03407bc2efedecdd88ea3325bd42ba1c&", "param": "think"},
      {"url": "https://cdn.discordapp.com/attachments/1264319975284543601/1270838598660395111/a790e458eb86a4f191536ef9c174d122.gif?ex=66b5282c&is=66b3d6ac&hm=23e26112537f868d422faa1b36a57b900c80f404cf705557935ea4a470b5bc51&", "param": "think"},
