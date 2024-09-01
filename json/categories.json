@@ -40,7 +40,8 @@
      {"url": "https://cdn.discordapp.com/attachments/1264319934180364441/1279835434343731370/puke-vomit.gif?ex=66d5e321&is=66d491a1&hm=cbf6ba4ba50137564e0b5a1ca3c5fbb3af6e8cf49cf8a5bb20270f2472d99db1&", "param": "vomit"},
      {"url": "https://cdn.discordapp.com/attachments/1264319934180364441/1279835434696048753/rainbow-whoa.gif?ex=66d5e321&is=66d491a1&hm=d65bf655d436aef4f43f9d92ca4ce773ec355eaee30f1dcd25da4e4ecb9225d4&", "param": "vomit"},
      {"url": "https://cdn.discordapp.com/attachments/1264319934180364441/1279835435245506591/rossweisse-dx-d.gif?ex=66d5e321&is=66d491a1&hm=3145cd080184fe097cea270a8eb0d755b3a3a4c5eca7e4ea2e7ecaeed3a12e27&", "param": "vomit"}
-    ],"like": [
+    ],
+    "like": [
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839769957761093/tumblr_318dc04117b6fdeddb50baad54493fab_803c3af4_540.gif?ex=66d5e72b&is=66d495ab&hm=9690ddef1499b9ec9fc5c93ab4da09286aa9673b36f785036a1397b34614193a&", "param": "like"},
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839841999261747/descargar.gif?ex=66d5e73c&is=66d495bc&hm=332b1445ce4af13bdbc4958b54f4a7feebf371b66cd815ff2eb883277437584a&", "param": "like"},
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839842401910835/dragon-maid-thumbs-up.gif?ex=66d5e73c&is=66d495bc&hm=d64613f6b48fb28662b10d872722b14091227903f3592874e44188b095b1049e&", "param": "like"},
@@ -62,6 +63,34 @@
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839856540778640/anime-maid-thumbs-up-cllcroa4lj8ncyhd.gif?ex=66d5e740&is=66d495c0&hm=7d2269123544ab1fc0ff2a15c153e346c9f897b22840171f06452b804e0185b4&", "param": "like"},
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839856914206791/anime-thumbs.gif?ex=66d5e740&is=66d495c0&hm=00e0a671a98f30b15036129d76229840a471d457ed39c1b0f8b89f77b6565bc4&", "param": "like"},
      {"url": "https://cdn.discordapp.com/attachments/1264320052069662741/1279839857249882143/bocchi-bocchi-the-rock.gif?ex=66d5e740&is=66d495c0&hm=5e58b354f768d527c40cae18a9836b1dbb549c0658d5fab4406449a4186c4a47&", "param": "like"}
+    ],
+    "laugh": [
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846485281996841/anime-girl.gif?ex=66d5ed6c&is=66d49bec&hm=596f79c4c9da7606ca7fd0eec0494d8350707e2b20be1e120e8bea3fb9cb5abb&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846485671940116/anime-happy.gif?ex=66d5ed6c&is=66d49bec&hm=e473e31245c93d8673d6a7a4f81adef622b17d1ee24aacfe0970b49455c90812&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846486045360279/anime-laughing.gif?ex=66d5ed6c&is=66d49bec&hm=749dfa56d9015cd017416df157a9fa6854896f24f5ea0adc4bd1039c96ea203a&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846486472917072/anime-laughing_1.gif?ex=66d5ed6c&is=66d49bec&hm=f71f0806a5f1cf6a1be4050faae5cfef70456b1b4a6992bc21028ebef199fd35&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846486854729859/anime-laughing_2.gif?ex=66d5ed6c&is=66d49bec&hm=ea103262cfb1ae41e1f18bceecb6002c0b59935c926bdc7a3701bc5e06f27df5&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846487244935178/anime-skygirls.gif?ex=66d5ed6c&is=66d49bec&hm=a84d03750215d004d4235d3743b1176f8118095c69dbbd86cd6a99e5266a17c6&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846487664234536/bokura-wa-minna-kawaisou-gifs-to-reaction.gif?ex=66d5ed6d&is=66d49bed&hm=8e9ffdbd9df3ed3c67afba7cbf926c049567d862990e88682ee0274912830e74&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846488049975336/cae-caelan.gif?ex=66d5ed6d&is=66d49bed&hm=7b12b8d8e0f6019c4461ce4c91ece7473fd2e1101e273649c2108292ad9271e7&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846488553427056/gojo-satoru.gif?ex=66d5ed6d&is=66d49bed&hm=f8953801640276be12ec5d1dcde35d32779923e1b1f8f3a1ffddd5f3f81cac26&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846489035898891/hakase-shinonome-nichijou.gif?ex=66d5ed6d&is=66d49bed&hm=f7b6cfab8ebbcf77db400b74618d57d00fab31735180d7385dd94eccb49ae93e&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846534963396699/nagomi-yui-delicious-party-precure.gif?ex=66d5ed78&is=66d49bf8&hm=948de6ee2be1059dacbccebd3e09fb542955c2ca95ab577ea4528b6c7da7a191&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846535441678441/natsu-lol.gif?ex=66d5ed78&is=66d49bf8&hm=4d0c7bce74e3a1ea723a244930e5332e6d3e07f10522c10b0359e1023f3db40b&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846535898730548/spy-x-family-anime.gif?ex=66d5ed78&is=66d49bf8&hm=557b683f174b6fe86b9648824d12cd6f3684428eb52988e446fc43e4cc1008f6&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846536301514882/takumi-laugh.gif?ex=66d5ed78&is=66d49bf8&hm=38c962bb3fdc6befbb6e75a8d685cda06e19791023486dae4cafc763cdfed203&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846536779530301/zero-two-darling-in-the-franxx.gif?ex=66d5ed78&is=66d49bf8&hm=4a13261a875df9d9bf47ff0481f15afe341b0bcd40b5ef34fd53a6ef96f707c3&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846533264703498/hayasaka-ai-kaguya-sama-love-is-war.gif?ex=66d5ed77&is=66d49bf7&hm=a247966538aff7dce382948e01d81325adc1c3682ee4232fdf9db4e9247224bd&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846534040780830/hayase-nagatoro-nagatoro-hehe.gif?ex=66d5ed78&is=66d49bf8&hm=15adffc0bc930eb91fcfba55b05f5c77c01d32829445c47e133a26f52b16f0c1&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846534476857384/kageyama-shigeo-anime.gif?ex=66d5ed78&is=66d49bf8&hm=85c5ba68ac26c5cae39d14b08e01941ca2e70bb671d6a348d5c5f11f69b62573&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846535001018378/kuroo-tetsurou-haikyuu.gif?ex=66d5ed78&is=66d49bf8&hm=a550f1171f8039ea4d6e7c0166bfe4e5bad0d98ed365cc025bc50c89324ebe9c&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846535508660377/kyouko-toshino-yuru-yuri.gif?ex=66d5ed78&is=66d49bf8&hm=0926c5b797c06d7499bc7fcca2779c704947474a5407e033b0669ff3987b8038&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846536175419412/laugh-giggle.gif?ex=66d5ed78&is=66d49bf8&hm=08fc7f2542f436133a3e32cbfd9e1314a02a2458423f3aeffa516e8583b0921e&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846536670478467/laugh-laughing.gif?ex=66d5ed78&is=66d49bf8&hm=3f888b43ffc7f7b34fca9fcf42b2f3c3a965cbd171da5e860bfdfc0e3a589887&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846537102360616/luvia-edelfelt-fate-kaleid-liner-prisma-illya.gif?ex=66d5ed78&is=66d49bf8&hm=15ae11ae29a4bb668328e7a9162af2975aa8ac9da2c418d5c546147616063d26&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846537819717814/my-dress-up-darling-anime-laugh.gif?ex=66d5ed79&is=66d49bf9&hm=5c85c440876cb1dca2b2226ecfe0f6156328a7f898d964119bc91491c47f64d8&", "param": "laugh"},
+     {"url": "https://cdn.discordapp.com/attachments/1264320101570838738/1279846538331291661/my-dress-up-darling-marin-kitagawa.gif?ex=66d5ed79&is=66d49bf9&hm=e750077e6fa06298dff9bb51fe7a63a4c252d6ac1c77e0fbe29f43e2c275c49b&", "param": "laugh"}
+
     ],
     "angry":[
      {"url": "https://cdn.discordapp.com/attachments/1264320214628040704/1264320941220036679/d675663263c11e9572576d6683c2cb67e3d69baf.gif?ex=669d7222&is=669c20a2&hm=1c63bad479da7e3efe1008a0cf7850e37fd0520aed4047d0855ece2762b5144f&", "param": "angry"},
